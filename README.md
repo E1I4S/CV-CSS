@@ -139,7 +139,6 @@ footer a:hover {
         </div>
       </header>
     <section id="Sobre mí">
-    <H1>Elias Raphael Cardozo Pereira</H1>
     <p>Actualmente estudio en la carrera de ingenieria informatica en la Universidad de la integración de las americas (UNIDA),<br> soy un estudiante sobresaliente que desea aprender y obtener más experiencias de las oportunidades que se me ofrecen. <br>
     Poseo experiencia básica en HTML,lenguaje de programación C++ y base de datos. </p>
     </section>
